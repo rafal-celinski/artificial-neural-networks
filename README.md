@@ -1,1 +1,0 @@
-# wut-artificial-neural-networks-lab
